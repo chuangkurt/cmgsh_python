@@ -1,0 +1,25 @@
+#線上開發環境 https://ideone.com
+#python對於縮排(tab)非常計較
+#python (不需要宣告變數)
+number = 100
+name = 'John'
+#C++ (需要宣告變數)
+int number;	number = 100;
+string name;	name = 'John';
+
+#call calendar
+import calendar
+print (calendar.month(1987,10,15))
+
+#變數型態
+#int 整數
+a = int(100)
+#float 浮點數
+b = float(1.234)
+#str 字串
+c = 
+
+
+y = float(1.234)
+x = 3*y**2-3*y+5
+print (x)
