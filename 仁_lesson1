@@ -23,3 +23,34 @@ c =
 y = float(1.234)
 x = 3*y**2-3*y+5
 print (x)
+
+# your code goes 
+# calendar
+
+y=int(1.234)
+x=3*y**2-3*y+5
+print(x)
+
+# your code goes here
+y = float(1.234)
+x = 3*y**2-3*y+5
+print(x)
+# your code goes here
+y = int(1.234)
+x = 3*y**2-3*y+5
+print(x)
+
+# 輸入的練習
+name = input('請告訴我你的名字')
+print(name)
+
+左下角按input先輸入名字,再submit
+
+print(' 這是我第一個作業')
+
+
+# 輸入的練習
+name1 = input('請輸入第一個名字')
+print(name1)
+name2 = input('請輸入第二個名字')
+print(name2)
