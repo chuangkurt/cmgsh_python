@@ -19,3 +19,9 @@ print(a+b)
 print(a-b)
 print(a*b)
 print(a/b)
+
+#畢氏定理產生器，在py2.7中需要輸入(1.0/2.0)，否則都輸入整數內建運算方式會以整數方式顯示
+a=float(input())
+b=float(input())
+
+print((a**2+b**2)**(1.0/2.0))
