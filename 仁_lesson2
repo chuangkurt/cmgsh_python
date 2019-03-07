@@ -1,1 +1,6 @@
-
+#int()會僅保留整數部分，小數點捨去
+#float()帶有小數的數字
+#str('')字串
+#bool()
+a=int(input())
+print(a)
